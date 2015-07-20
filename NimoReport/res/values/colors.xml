@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="nimo_background">#fff5edea</color>
+    <!-- common bg white -->
+    <color name="nimo_common_bg">#ffffffff</color>
+
+    <!-- common white 30% translucent -->
+    <color name="nimo_common_white_translucent">#4cffffff</color>
+
+    <!-- common white 50% translucent -->
+    <color name="nimo_common_white_fifty_percent">#7fffffff</color>
+
+    <!-- common text black -->
+    <color name="nimo_common_text_black">#525252</color>
+
+    <!-- common text gray -->
+    <color name="nimo_common_text_gray">#8E8E8E</color>
+
+    <!-- common text yellow -->
+    <color name="nimo_common_yellow">#EB9B54</color>
+    <color name="nimo_common_yellow_selected">#E65B28</color>
+
+    <!-- baobao info -->
+    <color name="nimo_head_bg_color">#F5EBEB</color>
+    <color name="nimo_gray">#AEAEAE</color>
+    <color name="nimo_headbirth_valuetext">#A87C57</color>
+    <color name="nimo_headbirth_keytext">#AEAEAE</color>
+    <color name="nimo_name">#484848</color>
+
+    <!-- slide menu -->
+    <color name="nimo_slide_menu_text_color">#EDB078</color>
+    <color name="nimo_slide_menu_div_color">#11FFFFFF</color>
+
+    <!-- dialog -->
+    <color name="nimo_divider_blue_line">#FF0A5CAD</color>
+    <color name="nimo_divider_gray_line">#FFDBDBDB</color>
+    <color name="babyshow_divider_gray_line">#55DBDBDB</color>
+
+    <!-- calendar -->
+    <color name="nimo_calendar_head_week">#FAFBFB</color>
+    <color name="menu_regist_text_color">#B0B0B0</color>
+    <color name="black">#ff000000</color>
+    <color name="yellow">#EB9B54</color>
+    <color name="alpha_bg">#00000000</color>
+    <color name="tab_text_normal">#7fffffff</color>
+    
+    <!-- recommend view -->
+    <color name="nimo_recommend_line_translucent">#19000000</color>
+    
+    <color name="nimo_study_summary_gray">#ababab</color>
+    <color name="nimo_home_bg">#E6E6E6</color>
+    
+    <color name="nimo_voice_help_click">#E6E6E6</color>
+    <color name="nimo_voice_help_normal">#00E6E6E6</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="comment_num">#949392</color>
+</resources>
